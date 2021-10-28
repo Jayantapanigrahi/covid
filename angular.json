@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "covid": {
@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "covid"
+    }
+  },
+  "defaultProject": "covid",
+  "cli": {
+    "analytics": "d3d3a301-1229-4af5-a043-da500844a6e9"
+  }
 }

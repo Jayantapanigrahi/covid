@@ -11,6 +11,7 @@
   },
   "private": true,
   "dependencies": {
+    "@amcharts/amcharts4": "^4.10.22",
     "@angular/animations": "~9.0.7",
     "@angular/common": "~9.0.7",
     "@angular/compiler": "~9.0.7",
@@ -19,6 +20,9 @@
     "@angular/platform-browser": "~9.0.7",
     "@angular/platform-browser-dynamic": "~9.0.7",
     "@angular/router": "~9.0.7",
+    "@types/core-js": "^2.5.5",
+    "core-js": "^3.19.0",
+    "regenerator-runtime": "^0.13.9",
     "rxjs": "~6.5.4",
     "tslib": "^1.10.0",
     "zone.js": "~0.10.2"
